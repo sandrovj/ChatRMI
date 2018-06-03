@@ -83,7 +83,6 @@ public class ChatUI{
   }
   
 	public static void main(String [] args){
-		System.out.println("Hello World !");
 		ChatUI c=new ChatUI();
 	}  
   
@@ -95,7 +94,6 @@ public class ChatUI{
 	    JPanel top = new JPanel();
 	    JPanel cn = new JPanel();
 	    JPanel bottom = new JPanel();
-	    JPanel bottomtop = new JPanel();
 	    
 	    ip=new JTextField();
 	    tf=new JTextField();
